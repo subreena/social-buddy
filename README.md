@@ -1,4 +1,4 @@
-Social Buddy - Live Link: https://social-buddy-react-app.netlify.app/
+<h1><strong>Social Buddy</strong></h1> <br> Live Link: https://social-buddy-react-app.netlify.app/
 
 This is a website that shows different posts that are generated for JSON placeholder api.
 Also we can see different comments on the particular post that is clicked.
